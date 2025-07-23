@@ -1,13 +1,11 @@
 # 🫀 Cardiovascular Risks: Top Factors
 
 ## 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/shikha.abhaynarayan.singh8400/viz/CardiovascularRisksDashboards/Intro2)  
----
 
 ## 📘 Project Overview
 
 This Tableau project explores key public health indicators in the United States, focusing on **cardiovascular disease**, **diabetes**, **high blood pressure**, **cholesterol**, **obesity**, and **smoking**. The dashboards include trend analyses, demographic breakdowns, and socioeconomic insights to provide a comprehensive picture of health risks and mortality patterns across the country.
 
----
 
 ## 📊 Dashboards Included
 
@@ -43,7 +41,7 @@ This Tableau project explores key public health indicators in the United States,
 - Top 10 states with highest smoking rates
 - Correlation of smoking-related deaths with income levels
 
----
+
 
 ## 📂 Data Sources
 
@@ -60,7 +58,7 @@ This Tableau project explores key public health indicators in the United States,
   - High Cholesterol  
 - **NCD-RisC**: U.S. cholesterol data (1980–1985)  
 
----
+
 
 ## 🧠 Insights and Goals
 
@@ -70,7 +68,6 @@ This project aims to:
 - Identify top preventable risk factors for cardiovascular conditions
 - Provide accessible, interactive visual storytelling for public health awareness
 
----
 
 ## 💬 Contact
 
