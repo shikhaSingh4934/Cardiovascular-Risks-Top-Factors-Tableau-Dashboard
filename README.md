@@ -9,7 +9,7 @@ This Tableau project explores key public health indicators in the United States,
 
 ## 📊 Dashboards Included 
 
-### 1. **[Cover Page](docs/CoverPage.png)**
+### 1. **[Cover Page](docs/CoverPage_1.png)**
 
 ### 2. **[Heart Disease Insights](docs/Intro_2.png)**
 - Declining death rates from 1950 to 2020
