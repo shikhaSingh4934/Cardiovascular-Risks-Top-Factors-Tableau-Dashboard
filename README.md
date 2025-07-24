@@ -17,7 +17,7 @@ This Tableau project explores key public health indicators in the United States,
 - Top 5 risk factors ranked (e.g., high systolic blood pressure, diabetes)
 - Age and gender breakdown of heart attack prevalence
 
-### 3. **[High Blood Pressure Insights](docs/High BP_3.png)**
+### 3. **[High Blood Pressure Insights](docs/High%20BP_3.png)**
 - Blood pressure trends over 40 years
 - State-wise comparisons
 - Age and socioeconomic factors influencing HBP rates
